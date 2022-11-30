@@ -1,2 +1,5 @@
-node_modules/
+angularapp/node_modules
+angularapp/package-lock.json
+nodeapp/node_modules
+nodeapp/package-lock.json
 done
